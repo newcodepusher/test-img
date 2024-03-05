@@ -1,3 +1,4 @@
 <svg width="0" height="0">
+   <circle cx="10" cy="10" r="10" stroke="green" stroke-width="4" fill="yellow" />
 	<script>console.log(32432423)</script>
 </svg>
